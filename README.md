@@ -56,24 +56,6 @@ Add your actual application screenshots to the `screenshots/` folder using the f
 | Category Management | ![Category Management](screenshots/admin/categories.png) |
 
 | Admin Profile | ![Admin Profile](screenshots/admin/profile.png) |
-| Activate / Deactivate Account | ![Account Status Management](screenshots/admin/account-status.png) |
-| Platform Statistics | ![Platform Statistics](screenshots/admin/statistics.png) |
-
-### ⚡ AJAX & Important UI States
-
-| Feature / State | Screenshot |
-|---|---|
-| AJAX Auction Search | ![AJAX Search](screenshots/features/ajax-search.png) |
-| AJAX Category Management | ![AJAX Categories](screenshots/features/ajax-categories.png) |
-| Updated Bid Status | ![Updated Bid Status](screenshots/features/bid-status-update.png) |
-| Auction Countdown Timer | ![Countdown Timer](screenshots/features/countdown-timer.png) |
-| Form Validation / Error Message | ![Form Validation](screenshots/features/form-validation.png) |
-| Empty Watchlist / No Results | ![Empty State](screenshots/features/empty-state.png) |
-| Mobile / Responsive View | ![Responsive View](screenshots/features/responsive-view.png) |
-
-> **Important:** These image paths are prepared slots, not screenshots included with this README. Add your own screenshot files with the exact filenames above. If a page or feature is not present in your application, remove that row rather than adding a misleading screenshot.
-
----
 
 ## ✨ Features
 
