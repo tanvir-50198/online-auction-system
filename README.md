@@ -33,10 +33,7 @@ Add your actual application screenshots to the `screenshots/` folder using the f
 | My Bids / Bid Status | ![My Bids](screenshots/buyer/my-bids.png) |
 | Watchlist | ![Watchlist](screenshots/buyer/watchlist.png) |
 | Buyer Profile | ![Buyer Profile](screenshots/buyer/profile.png) |
-| Edit Profile / Profile Picture | ![Edit Profile](screenshots/buyer/edit-profile.png) |
-| Change Password | ![Change Password](screenshots/buyer/change-password.png) |
-| Seller Review | ![Seller Review](screenshots/buyer/seller-review.png) |
-| Search & Filter Results | ![Search and Filter](screenshots/buyer/search-filter.png) |
+
 
 ### 🧑‍💼 Seller Pages
 
@@ -49,9 +46,6 @@ Add your actual application screenshots to the `screenshots/` folder using the f
 | Live Bids / Bid Monitoring | ![Seller Bids](screenshots/seller/bids.png) |
 | Auction Results | ![Auction Results](screenshots/seller/results.png) |
 | Seller Profile | ![Seller Profile](screenshots/seller/profile.png) |
-| Winning Buyer Review | ![Winning Buyer Review](screenshots/seller/winning-buyer-review.png) |
-| Product Image Upload | ![Product Image Upload](screenshots/seller/product-image-upload.png) |
-
 ### 👑 Admin Pages
 
 | Page | Screenshot |
@@ -60,7 +54,7 @@ Add your actual application screenshots to the `screenshots/` folder using the f
 | User Management | ![User Management](screenshots/admin/users.png) |
 | Auction Listing Management | ![Listing Management](screenshots/admin/listings.png) |
 | Category Management | ![Category Management](screenshots/admin/categories.png) |
-| Create Admin Account | ![Create Admin](screenshots/admin/create-admin.png) |
+
 | Admin Profile | ![Admin Profile](screenshots/admin/profile.png) |
 | Activate / Deactivate Account | ![Account Status Management](screenshots/admin/account-status.png) |
 | Platform Statistics | ![Platform Statistics](screenshots/admin/statistics.png) |
